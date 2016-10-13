@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=tVIIgcIqoPw
 https://www.youtube.com/watch?v=EfEUDAHgrGQ
 https://www.youtube.com/watch?v=Ip5eoQSB7EU
 
+Creating Restful Webservice:
+https://www.youtube.com/watch?v=EfEUDAHgrGQ
+https://www.youtube.com/watch?v=Ip5eoQSB7EU
+
 #Translate API Java code:
 
 http://hayageek.com/google-translate-api-tutorial/
